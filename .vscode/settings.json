@@ -1,0 +1,10 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "editor.accessibilityPageSize": 15,
+    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast Light",
+    "workbench.preferredHighContrastLightColorTheme": "Default Light+",
+    "workbench.preferredLightColorTheme": "Default Dark+",
+    "editor.fontSize": 18
+}
